@@ -1,0 +1,33 @@
+2018-02-27 13:48:40,381 - root - INFO - ############################### START ###############################
+2018-02-27 13:48:46,167 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.78399991989 seconds
+2018-02-27 13:48:47,391 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.22200012207 seconds
+2018-02-27 13:49:11,592 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 24.1990001202 seconds
+2018-02-27 13:49:14,582 - root - INFO - SUCCESS    Click by text content: 登录, Spend 2.98600006104 seconds
+2018-02-27 13:49:14,743 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 13408631121, Spend 0.160000085831 seconds
+2018-02-27 13:49:14,842 - root - INFO - SUCCESS    Clear and type element: <name->password> content: 123456, Spend 0.0980000495911 seconds
+2018-02-27 13:49:16,506 - root - INFO - SUCCESS    Clicked element: <class->sub-btn>, Spend 1.66400003433 seconds
+2018-02-27 13:49:18,548 - root - INFO - SUCCESS    Get element text element: <xpath->.//*[@id='page-main']/div[1]/div/div[3]/span/a>, Spend 0.0400002002716 seconds
+2018-02-27 13:49:34,996 - root - INFO - SUCCESS    Click by text content: 退出, Spend 16.4470000267 seconds
+2018-02-27 13:49:37,069 - root - INFO - SUCCESS    Get element text element: <xpath->.//*[@id='page-main']/div[1]/div/div[3]/a[1]>, Spend 0.0720000267029 seconds
+2018-02-27 13:49:37,088 - root - INFO - SUCCESS    Get element text element: <xpath->.//*[@id='page-main']/div[1]/div/div[3]/a[1]>, Spend 0.0169999599457 seconds
+2018-02-27 13:49:55,944 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 18.8550000191 seconds
+2018-02-27 13:49:56,517 - root - INFO - SUCCESS    Click by text content: 登录, Spend 0.570999860764 seconds
+2018-02-27 13:49:56,657 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 13408631121, Spend 0.139000177383 seconds
+2018-02-27 13:49:56,756 - root - INFO - SUCCESS    Clear and type element: <name->password> content: 654321, Spend 0.0999999046326 seconds
+2018-02-27 13:49:57,072 - root - INFO - SUCCESS    Clicked element: <class->sub-btn>, Spend 0.313000202179 seconds
+2018-02-27 13:49:58,864 - root - INFO - SUCCESS    Get the current window screenshot,path: E:\CI\UOKOUItestframework-master\report\img\login_password_incorrect.jpg, Spend 0.789999961853 seconds
+2018-02-27 13:49:58,904 - root - INFO - SUCCESS    Get element text element: <id->server-error-box>, Spend 0.0409998893738 seconds
+2018-02-27 13:49:58,924 - root - INFO - SUCCESS    Get element text element: <id->server-error-box>, Spend 0.0190000534058 seconds
+2018-02-27 13:50:02,049 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.12299990654 seconds
+2018-02-27 13:50:02,052 - root - INFO - ###############################  End  ###############################
+2018-02-27 13:50:07,351 - root - INFO - 发送邮件成功
+2018-02-27 17:32:32,026 - root - INFO - ############################### START ###############################
+2018-02-27 17:32:36,095 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.05999994278 seconds
+2018-02-27 17:32:37,283 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.18499994278 seconds
+2018-02-27 17:33:01,750 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 24.4630000591 seconds
+2018-02-27 17:33:01,855 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.101999998093 seconds
+2018-02-27 17:33:27,575 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 25.5319998264 seconds
+2018-02-27 17:33:27,653 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0770001411438 seconds
+2018-02-27 17:33:30,703 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.04800009727 seconds
+2018-02-27 17:33:30,703 - root - INFO - ###############################  End  ###############################
+2018-02-27 17:33:34,898 - root - INFO - 发送邮件成功

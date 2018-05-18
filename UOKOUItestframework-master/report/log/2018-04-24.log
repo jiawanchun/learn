@@ -1,0 +1,10 @@
+2018-04-24 17:32:37,108 - root - INFO - ############################### START ###############################
+2018-04-24 17:32:43,861 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 6.74699997902 seconds
+2018-04-24 17:32:45,029 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.16600012779 seconds
+2018-04-24 17:33:12,272 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 27.2410001755 seconds
+2018-04-24 17:33:12,361 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0889999866486 seconds
+2018-04-24 17:33:13,595 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.911999940872 seconds
+2018-04-24 17:33:13,661 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0659999847412 seconds
+2018-04-24 17:33:16,684 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.02200007439 seconds
+2018-04-24 17:33:16,686 - root - INFO - ###############################  End  ###############################
+2018-04-24 17:33:22,811 - root - INFO - 发送邮件成功

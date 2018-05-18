@@ -1,0 +1,6 @@
+2018-04-02 17:32:38,348 - root - INFO - ############################### START ###############################
+2018-04-02 17:32:54,313 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 15.9409999847 seconds
+2018-04-02 17:32:55,461 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.14499998093 seconds
+2018-04-02 17:37:55,655 - root - INFO - FAIL    Unable to load http://www.pre.uoko.com, Spend 300.164999962 seconds
+2018-04-02 17:42:55,914 - root - INFO - FAIL    Unable to load http://www.pre.uoko.com, Spend 300.067000151 seconds
+2018-04-02 17:56:55,407 - root - INFO - 发送邮件成功

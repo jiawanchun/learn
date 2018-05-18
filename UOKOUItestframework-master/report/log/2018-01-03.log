@@ -1,0 +1,132 @@
+2018-01-03 17:32:45,696 - root - INFO - ############################### START ###############################
+2018-01-03 17:32:51,849 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 6.15199995041 seconds
+2018-01-03 17:32:53,016 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.16400003433 seconds
+2018-01-03 17:33:17,631 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 24.612000227 seconds
+2018-01-03 17:33:17,720 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0889999866486 seconds
+2018-01-03 17:33:18,661 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.724999904633 seconds
+2018-01-03 17:33:18,727 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0659999847412 seconds
+2018-01-03 17:33:21,779 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.0490000248 seconds
+2018-01-03 17:33:21,782 - root - INFO - ###############################  End  ###############################
+2018-01-03 17:33:21,783 - root - INFO - ############################### START ###############################
+2018-01-03 17:33:27,148 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 5.36199998856 seconds
+2018-01-03 17:33:28,322 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.17200016975 seconds
+2018-01-03 17:33:52,744 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 24.4219999313 seconds
+2018-01-03 17:33:52,878 - root - INFO - SUCCESS    Clicked element: <class->city-selection>, Spend 0.133000135422 seconds
+2018-01-03 17:33:52,936 - root - INFO - SUCCESS    Move to element: <xpath->.//*[@id='city-list']/li[3]/a>, Spend 0.055999994278 seconds
+2018-01-03 17:34:07,914 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='city-list']/li[3]/a>, Spend 14.9769999981 seconds
+2018-01-03 17:34:13,930 - root - INFO - SUCCESS    Get current window url, Spend 0.0150001049042 seconds
+2018-01-03 17:34:17,032 - root - INFO - SUCCESS    Navigated to http://chengdu.pre.uoko.com, Spend 3.10000014305 seconds
+2018-01-03 17:34:17,884 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.848999977112 seconds
+2018-01-03 17:34:19,058 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 1.17199993134 seconds
+2018-01-03 17:34:20,072 - root - INFO - SUCCESS    Get current window title, Spend 0.0130000114441 seconds
+2018-01-03 17:34:20,846 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.773000001907 seconds
+2018-01-03 17:34:23,571 - root - INFO - SUCCESS    Click by text content: 租前须知, Spend 1.72300004959 seconds
+2018-01-03 17:34:23,582 - root - INFO - SUCCESS    Get current window title, Spend 0.0090000629425 seconds
+2018-01-03 17:34:24,828 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.24500012398 seconds
+2018-01-03 17:34:28,637 - root - INFO - SUCCESS    Click by text content: 房东加盟, Spend 2.8069999218 seconds
+2018-01-03 17:34:28,645 - root - INFO - SUCCESS    Get current window title, Spend 0.00799989700317 seconds
+2018-01-03 17:34:29,690 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.04299998283 seconds
+2018-01-03 17:34:53,072 - root - INFO - SUCCESS    Click by text content: 关于优客, Spend 22.3800001144 seconds
+2018-01-03 17:34:53,085 - root - INFO - SUCCESS    Get current window title, Spend 0.0110001564026 seconds
+2018-01-03 17:34:53,871 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.783999919891 seconds
+2018-01-03 17:34:53,956 - root - INFO - SUCCESS    Typed element: <id->search-ipt> content: 光明城市, Spend 0.0839998722076 seconds
+2018-01-03 17:34:54,739 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[3]/div/div[1]/form/input[2]>, Spend 0.781999826431 seconds
+2018-01-03 17:34:56,750 - root - INFO - SUCCESS    Get current window title, Spend 0.010999917984 seconds
+2018-01-03 17:34:58,275 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.52199983597 seconds
+2018-01-03 17:34:59,325 - root - INFO - SUCCESS    Click by text content: 布鲁明顿, Spend 1.04999995232 seconds
+2018-01-03 17:35:05,368 - root - INFO - SUCCESS    Click by text content: 金牛区, Spend 1.04100012779 seconds
+2018-01-03 17:35:11,257 - root - INFO - SUCCESS    Click by text content: 武侯区, Spend 0.888999938965 seconds
+2018-01-03 17:35:17,203 - root - INFO - SUCCESS    Click by text content: 九里堤, Spend 0.945000171661 seconds
+2018-01-03 17:35:23,698 - root - INFO - SUCCESS    Click by text content: 内光华, Spend 1.49499988556 seconds
+2018-01-03 17:35:29,479 - root - INFO - SUCCESS    Click by text content: 红牌楼, Spend 0.780000209808 seconds
+2018-01-03 17:35:36,493 - root - INFO - SUCCESS    Get current window url, Spend 0.0130000114441 seconds
+2018-01-03 17:35:58,002 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 21.5069999695 seconds
+2018-01-03 17:35:58,105 - root - INFO - FAIL    Unable to click element: <xpath->.//*[@id='page-main']/div[3]/div/a>, Spend 0.101999998093 seconds
+2018-01-03 17:35:58,898 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.767999887466 seconds
+2018-01-03 17:35:58,908 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollBy(0,500), Spend 0.00899982452393 seconds
+2018-01-03 17:35:59,022 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[4]/div/ul/li[1]/div[2]/a>, Spend 0.110999822617 seconds
+2018-01-03 17:36:02,073 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://www.pre.uoko.com/room/a0f4516666914069b71b517014a91a99, Spend 1.05099987984 seconds
+2018-01-03 17:36:02,078 - root - INFO - SUCCESS    Get current window url, Spend 0.00399994850159 seconds
+2018-01-03 17:36:02,082 - root - INFO - SUCCESS    Get current window url, Spend 0.00300002098083 seconds
+2018-01-03 17:36:02,140 - root - INFO - SUCCESS    Closed current window, Spend 0.055999994278 seconds
+2018-01-03 17:36:05,180 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.03500008583 seconds
+2018-01-03 17:36:05,181 - root - INFO - ###############################  End  ###############################
+2018-01-03 17:36:05,184 - root - INFO - ############################### START ###############################
+2018-01-03 17:36:09,214 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.02799987793 seconds
+2018-01-03 17:36:10,381 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.16499996185 seconds
+2018-01-03 17:36:49,838 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 39.4550001621 seconds
+2018-01-03 17:36:51,035 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 1.19400000572 seconds
+2018-01-03 17:36:51,763 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[4]/div/div/a[2]>, Spend 0.726999998093 seconds
+2018-01-03 17:36:56,775 - root - INFO - SUCCESS    Get current window url, Spend 0.010999917984 seconds
+2018-01-03 17:36:58,259 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.46700000763 seconds
+2018-01-03 17:36:59,161 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 0.897000074387 seconds
+2018-01-03 17:36:59,168 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollBy(0,300), Spend 0.00699996948242 seconds
+2018-01-03 17:36:59,256 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[4]/div/ul/li[1]/div[2]/a>, Spend 0.0870001316071 seconds
+2018-01-03 17:37:05,326 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://www.pre.uoko.com/room/a0f4516666914069b71b517014a91a99, Spend 1.06999993324 seconds
+2018-01-03 17:37:05,338 - root - INFO - SUCCESS    Get current window title, Spend 0.00899982452393 seconds
+2018-01-03 17:37:05,395 - root - INFO - SUCCESS    Closed current window, Spend 0.0569999217987 seconds
+2018-01-03 17:37:06,000 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.596999883652 seconds
+2018-01-03 17:37:07,539 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 1.53800010681 seconds
+2018-01-03 17:37:08,336 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[4]/div/div/a[2]>, Spend 0.796000003815 seconds
+2018-01-03 17:37:34,924 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 21.5880000591 seconds
+2018-01-03 17:37:36,634 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 1.70699977875 seconds
+2018-01-03 17:37:36,641 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollBy(0,10000), Spend 0.00799989700317 seconds
+2018-01-03 17:37:38,743 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='AsyncLoading']/ul/li[1]/p[1]/a>, Spend 2.10000014305 seconds
+2018-01-03 17:37:43,832 - root - INFO - SUCCESS    Get element text element: <xpath->.//*[@id='look-link-old']>, Spend 0.0880000591278 seconds
+2018-01-03 17:37:45,526 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.69400000572 seconds
+2018-01-03 17:37:46,305 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 0.778000116348 seconds
+2018-01-03 17:37:46,832 - root - INFO - SUCCESS    Clicked element: <id->customer-service-img>, Spend 0.526000022888 seconds
+2018-01-03 17:38:39,338 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 47.5039999485 seconds
+2018-01-03 17:39:01,085 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 21.7460000515 seconds
+2018-01-03 17:39:06,234 - root - INFO - SUCCESS    Typed element: <id->search-ipt> content: 大源, Spend 0.148999929428 seconds
+2018-01-03 17:39:07,253 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[3]/div/div/div[2]/div[1]/div[1]/form/input[2]>, Spend 1.01700019836 seconds
+2018-01-03 17:39:12,269 - root - INFO - SUCCESS    Get current window title, Spend 0.0160000324249 seconds
+2018-01-03 17:39:13,322 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.05100011826 seconds
+2018-01-03 17:39:14,371 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 1.0490000248 seconds
+2018-01-03 17:39:15,207 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[3]/div/div/div[2]/div[1]/div[2]/a[2]>, Spend 0.833000183105 seconds
+2018-01-03 17:39:20,217 - root - INFO - SUCCESS    Get current window title, Spend 0.00999999046326 seconds
+2018-01-03 17:39:21,341 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.12099981308 seconds
+2018-01-03 17:39:22,418 - root - INFO - SUCCESS    Click by text content: 我要租房, Spend 1.07699990273 seconds
+2018-01-03 17:39:45,555 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='page-main']/div[3]/div/div/div[2]/div[2]/div[1]/div/a[2]>, Spend 23.1360001564 seconds
+2018-01-03 17:42:01,970 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 131.412000179 seconds
+2018-01-03 17:47:02,038 - root - INFO - FAIL    Unable to Click by text content: 我要租房, Spend 300.065000057 seconds
+2018-01-03 17:52:02,072 - root - INFO - FAIL    Unable to load http://www.pre.uoko.com, Spend 299.99000001 seconds
+2018-01-03 17:57:02,069 - root - INFO - FAIL    Unable to load http://www.pre.uoko.com, Spend 299.995000124 seconds
+2018-01-03 18:02:02,122 - root - INFO - FAIL    Unable to load http://www.pre.uoko.com, Spend 300.049000025 seconds
+2018-01-03 18:07:02,155 - root - INFO - FAIL    Unable to load http://www.pre.uoko.com, Spend 300.029999971 seconds
+2018-01-03 18:07:05,575 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.41700005531 seconds
+2018-01-03 18:07:05,578 - root - INFO - ###############################  End  ###############################
+2018-01-03 18:07:05,582 - root - INFO - ############################### START ###############################
+2018-01-03 18:07:09,678 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.09599995613 seconds
+2018-01-03 18:07:10,849 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.16700005531 seconds
+2018-01-03 18:07:35,858 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 25.0069999695 seconds
+2018-01-03 18:07:35,956 - root - INFO - FAIL    Unable to click element: <xpath->.//*[@id='page-main']/div[3]/div/a>, Spend 0.0939998626709 seconds
+2018-01-03 18:07:35,973 - root - INFO - ############################### START ###############################
+2018-01-03 18:07:39,914 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.94000005722 seconds
+2018-01-03 18:07:41,088 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.17200016975 seconds
+2018-01-03 18:08:07,259 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com/room/37618e979be94bad9219c0aece07d532, Spend 26.1679999828 seconds
+2018-01-03 18:08:12,278 - root - INFO - SUCCESS    Get current window title, Spend 0.0160000324249 seconds
+2018-01-03 18:08:13,711 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com/room/37618e979be94bad9219c0aece07d532, Spend 1.43299984932 seconds
+2018-01-03 18:08:18,857 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='state-label-group']/div[1]>, Spend 0.143000125885 seconds
+2018-01-03 18:08:18,933 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='look-link-old']>, Spend 0.0749998092651 seconds
+2018-01-03 18:08:18,984 - root - INFO - FAIL    Unable to type element: <name->name> content: zihengtest, Spend 0.0519998073578 seconds
+2018-01-03 18:08:20,045 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com/room/37618e979be94bad9219c0aece07d532, Spend 1.03499984741 seconds
+2018-01-03 18:08:20,055 - root - INFO - SUCCESS    Execute javascript scripts: var q=document.documentElement.scrollTop=10000, Spend 0.00999999046326 seconds
+2018-01-03 18:08:21,276 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='item-info-verbose']/div[1]/div[7]/div[2]/ul/li[1]/p[1]/a>, Spend 1.22000002861 seconds
+2018-01-03 18:08:23,321 - root - INFO - SUCCESS    Get element text element: <id->loc-name>, Spend 0.0429999828339 seconds
+2018-01-03 18:08:24,576 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com/room/37618e979be94bad9219c0aece07d532, Spend 1.25499987602 seconds
+2018-01-03 18:08:24,591 - root - INFO - SUCCESS    Execute javascript scripts: window.scrollBy(0,400), Spend 0.0130000114441 seconds
+2018-01-03 18:08:28,013 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com/room/37618e979be94bad9219c0aece07d532, Spend 1.3900001049 seconds
+2018-01-03 18:08:28,502 - root - INFO - SUCCESS    Clicked element: <id->QQMessageOnlick>, Spend 0.489000082016 seconds
+2018-01-03 18:08:34,467 - root - INFO - SUCCESS    Get element text element: <class->chat-header-name>, Spend 3.96399998665 seconds
+2018-01-03 18:08:34,489 - root - INFO - SUCCESS    Get element text element: <class->chat-header-name>, Spend 0.0209999084473 seconds
+2018-01-03 18:08:34,589 - root - INFO - SUCCESS    Clicked element: <class->ntalk-button-close>, Spend 0.100999832153 seconds
+2018-01-03 18:08:37,638 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.04600000381 seconds
+2018-01-03 18:08:37,641 - root - INFO - ###############################  End  ###############################
+2018-01-03 18:08:37,644 - root - INFO - ############################### START ###############################
+2018-01-03 18:08:41,569 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.92200016975 seconds
+2018-01-03 18:08:42,711 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.14199995995 seconds
+2018-01-03 18:09:07,533 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com/room/, Spend 24.8220000267 seconds
+2018-01-03 18:09:12,914 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.02200007439 seconds
+2018-01-03 18:09:12,914 - root - INFO - ###############################  End  ###############################
+2018-01-03 18:09:18,194 - root - INFO - 发送邮件成功

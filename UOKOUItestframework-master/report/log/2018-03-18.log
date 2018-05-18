@@ -1,0 +1,20 @@
+2018-03-18 08:40:59,927 - root - INFO - ############################### START ###############################
+2018-03-18 08:41:29,480 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 29.5520000458 seconds
+2018-03-18 08:41:31,631 - root - INFO - SUCCESS    Set browser window maximized, Spend 2.15100002289 seconds
+2018-03-18 08:41:57,986 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 26.3529999256 seconds
+2018-03-18 08:42:00,052 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 2.06599998474 seconds
+2018-03-18 08:42:01,721 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 1.66799998283 seconds
+2018-03-18 08:42:03,779 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 2.05700016022 seconds
+2018-03-18 08:42:07,812 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 4.03299999237 seconds
+2018-03-18 08:42:07,813 - root - INFO - ###############################  End  ###############################
+2018-03-18 08:42:12,904 - root - INFO - 发送邮件成功
+2018-03-18 20:29:55,601 - root - INFO - ############################### START ###############################
+2018-03-18 20:30:00,111 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 4.49499988556 seconds
+2018-03-18 20:30:01,269 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.15700006485 seconds
+2018-03-18 20:30:25,724 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 24.4559998512 seconds
+2018-03-18 20:30:25,792 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0649998188019 seconds
+2018-03-18 20:30:26,730 - root - INFO - SUCCESS    Navigated to http://www.pre.uoko.com, Spend 0.695999860764 seconds
+2018-03-18 20:30:26,783 - root - INFO - FAIL    Unable to Click by text content: 登录, Spend 0.0519998073578 seconds
+2018-03-18 20:30:29,892 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.10799980164 seconds
+2018-03-18 20:30:29,892 - root - INFO - ###############################  End  ###############################
+2018-03-18 20:30:35,321 - root - INFO - 发送邮件成功
